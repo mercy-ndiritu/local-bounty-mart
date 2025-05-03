@@ -12,7 +12,7 @@ dist
 dist-ssr
 *.loca
 *.env
-
+*.env.*
 
 # Editor directories and files
 .vscode/*

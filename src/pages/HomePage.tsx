@@ -92,6 +92,7 @@ const HomePage = () => {
             </div>
           </div>
         </div>
+
       </section>
 
       <section className="py-12 bg-white">
